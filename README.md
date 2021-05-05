@@ -7,7 +7,9 @@ This contract mints the tokens automatically and distributes them to buyers in o
 
 The contract inherits Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrowdsale, and MintedCrowdsale.
 
-![PupperCoin Contract](PupperCoin Contract.png)
+![PupperCoin Contract](https://github.com/ingridschommer/Advanced_Solidity_Homework/blob/main/Screenshots/PupperCoin%20Contract.png)
+
+![CrowdSale Contract](https://github.com/ingridschommer/Advanced_Solidity_Homework/blob/main/Screenshots/Crowdsale%20Contract.png)
 
 Once I deployed this contract, I added the PUP coin to MyCryto.
 
@@ -15,8 +17,8 @@ Once I deployed this contract, I added the PUP coin to MyCryto.
 
 And sent ETH to the crowdsale from another account. 
 
-![Sending ETH to my Contract](Sending ETH to my Contract.png)
+![Sending ETH to my Contract](https://github.com/ingridschommer/Advanced_Solidity_Homework/blob/main/Screenshots/Sending%20ETH%20to%20my%20Contract.png)
 
 I can now see my token available in my MetaMask:
 
-![PUP in MetaMask](PUP in MetaMask.png)
+![PUP in MetaMask](https://github.com/ingridschommer/Advanced_Solidity_Homework/blob/main/Screenshots/PUP%20in%20MetaMask.png)
