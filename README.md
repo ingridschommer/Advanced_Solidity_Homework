@@ -11,7 +11,7 @@ The contract inherits Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrow
 
 Once I deployed this contract, I added the PUP coin to MyCryto.
 
-![Adding PUP token to MyCrypto](Adding PUP token to MyCrypto.png)
+![Adding PUP token to MyCrypto](Screenshots/Adding PUP token to MyCrypto.png)
 
 And sent ETH to the crowdsale from another account. 
 
